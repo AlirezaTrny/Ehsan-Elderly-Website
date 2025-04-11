@@ -1,5 +1,6 @@
 # Ehsan-Elderly-Website
 our main focus was using flask and creating frontend components
+
 here in this website we used flask, js, html, css
 
 in contribution via asdf group
@@ -7,6 +8,8 @@ in contribution via asdf group
 pictures :
 
 ![Pasted image](https://github.com/user-attachments/assets/db410e72-4154-40fd-a778-4f2903b3144b)
+
+![Pasted image (4)](https://github.com/user-attachments/assets/b6a13d44-1a4a-472f-a661-99ffa05f157a)
 
 
 ![Pasted image (3)](https://github.com/user-attachments/assets/7ae240bf-5aa1-4c8f-927a-d72d91f86cde)
